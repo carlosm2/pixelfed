@@ -10,9 +10,9 @@
 				{!! $page->content !!}
 				@else
 				<div class="terms">
-					<h5 class="font-weight-bold">1. Terms</h5>
-					<p class="">By accessing the website at <a href="{{config('app.url')}}">{{config('app.url')}}</a>, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.</p>
-					<h5 class="font-weight-bold mt-5">2. Use License</h5>
+					<h5 class="font-weight-bold">1. Terminos</h5>
+					<p class="">Accediendo al sitio web en <a href="{{config('app.url')}}">{{config('app.url')}}</a>, usted acepta regirse por estos términos de servicio y todas las leyes y regulaciones aplicables, y acepta ser responsable del cumplimiento de las leyes locales aplicables. Si no está de acuerdo con alguno de estos términos, se le prohíbe usar o acceder a este sitio. Los materiales contenidos en este sitio web están protegidos por las leyes de derechos de autor y marcas registradas aplicables..</p>
+					<h5 class="font-weight-bold mt-5">2. Licencia de uso</h5>
 					<ol class="" type="a">
 					   <li>Permission is granted to temporarily download one copy of the materials (information or software) on Pixelfed's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 					   <ol class="" type="i">
