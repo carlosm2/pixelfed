@@ -3,23 +3,23 @@
 @section('content')
 <div class="container mt-5">  
   <div class="col-12">
-    <p class="font-weight-bold text-lighter text-uppercase">Privacy Policy</p>
+    <p class="font-weight-bold text-lighter text-uppercase">Politica de Privacidad</p>
     <div class="card border shadow-none">
       <div class="card-body p-md-5 text-justify mx-md-3">
         @if($page && $page->content)
         {!! $page->content !!}
         @else
         <div class="terms">
-          <h5 class="font-weight-bold" id="1">1. What information do we collect?</h5>
+          <h5 class="font-weight-bold" id="1">1. ¿Qué información recopilamos?</h5>
           <ul class=" pl-4">
             <li>
-              Basic account information: If you register on this server, you may be asked to enter a username, an e-mail address and a password. You may also enter additional profile information such as a display name and biography, and upload a profile picture and header image. The username, display name, biography and avatar image are always listed publicly.
+              Información básica de la cuenta: Si se registra en este servidor, es posible que se le solicite un nombre de usuario, una dirección de correo electrónico y una contraseña. También puede ingresar información adicional de perfil, como un nombre para mostrar y una biografía, y subir una foto de perfil y una imagen de encabezado. El nombre de usuario, el nombre para mostrar, la biografía y la imagen de avatar siempre son públicos.
             </li>
             <li>
-              Posts, following and other public information: The list of people you follow is listed publicly, the same is true for your followers. When you submit a message, the date and time is stored as well as the application you submitted the message from. Messages may contain media attachments, such as pictures and videos. Public and unlisted posts are available publicly. When you feature a post on your profile, that is also publicly available information. Your posts are delivered to your followers, in some cases it means they are delivered to different servers and copies are stored there. When you delete posts, this is likewise delivered to your followers. The action of reblogging or favouriting another post is always public.
+              Publicaciones, seguidores y otra información pública: La lista de personas que sigues es pública, al igual que la de tus seguidores. Al enviar un mensaje, se almacenan la fecha y la hora, así como la aplicación desde la que lo enviaste. Los mensajes pueden contener archivos adjuntos, como imágenes y vídeos. Las publicaciones, tanto públicas como privadas, son públicas. Al destacar una publicación en tu perfil, esta información también es pública. Tus publicaciones se envían a tus seguidores; en algunos casos, esto significa que se envían a servidores diferentes y se almacenan copias allí. Al eliminar publicaciones, también se envía a tus seguidores. Rebloguear o añadir a favoritos otra publicación siempre es público.
             </li>
             <li>
-              Direct and followers-only posts: All posts are stored and processed on the server. Followers-only posts are delivered to your followers and users who are mentioned in them, and direct posts are delivered only to users mentioned in them. In some cases it means they are delivered to different servers and copies are stored there. We make a good faith effort to limit the access to those posts only to authorized persons, but other servers may fail to do so. Therefore it’s important to review servers your followers belong to. You may toggle an option to approve and reject new followers manually in the settings. Please keep in mind that the operators of the server and any receiving server may view such messages, and that recipients may screenshot, copy or otherwise re-share them. Do not share any dangerous information over Pixelfed.
+              Publicaciones directas y solo para seguidores: Todas las publicaciones se almacenan y procesan en el servidor. Las publicaciones solo para seguidores se envían a tus seguidores y a los usuarios mencionados, mientras que las publicaciones directas se envían solo a los usuarios mencionados. En algunos casos, esto implica que se envían a servidores diferentes y se almacenan copias allí. Nos esforzamos por limitar el acceso a estas publicaciones solo a personas autorizadas, pero otros servidores podrían no hacerlo. Por lo tanto, es importante revisar los servidores a los que pertenecen tus seguidores. Puedes activar o desactivar manualmente la opción de aprobar o rechazar nuevos seguidores en la configuración. Ten en cuenta que los operadores del servidor y cualquier servidor receptor pueden ver estos mensajes, y que los destinatarios pueden capturarlos, copiarlos o compartirlos de cualquier otra forma. No compartas información peligrosa a través de Pixelfed.
             </li>
             <li>
               IPs and other metadata: When you log in, we record the IP address you log in from, as well as the name of your browser application. All the logged in sessions are available for your review and revocation in the settings. The latest IP address used is stored for up to 12 months. We also may retain server logs which include the IP address of every request to our server.
