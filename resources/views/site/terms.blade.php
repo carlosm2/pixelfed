@@ -3,29 +3,29 @@
 @section('content')
 <div class="container mt-5">  
 	<div class="col-12">
-		<p class="font-weight-bold text-lighter text-uppercase">Terms of Use</p>
+		<p class="font-weight-bold text-lighter text-uppercase">Condiciones de uso</p>
 		<div class="card border shadow-none">
 			<div class="card-body p-md-5 text-justify mx-md-3">
 				@if($page && $page->content)
 				{!! $page->content !!}
 				@else
 				<div class="terms">
-					<h5 class="font-weight-bold">1. Terminos</h5>
+					<h5 class="font-weight-bold">1. Condiciones</h5>
 					<p class="">Accediendo al sitio web en <a href="{{config('app.url')}}">{{config('app.url')}}</a>, usted acepta regirse por estos términos de servicio y todas las leyes y regulaciones aplicables, y acepta ser responsable del cumplimiento de las leyes locales aplicables. Si no está de acuerdo con alguno de estos términos, se le prohíbe usar o acceder a este sitio. Los materiales contenidos en este sitio web están protegidos por las leyes de derechos de autor y marcas registradas aplicables..</p>
 					<h5 class="font-weight-bold mt-5">2. Licencia de uso</h5>
 					<ol class="" type="a">
-					   <li>Permission is granted to temporarily download one copy of the materials (information or software) on Pixelfed's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+					   <li>Se concede permiso para descargar temporalmente una copia de los materiales (información o software) del sitio web de Pixelfed, únicamente para su visualización transitoria personal y no comercial. Esta licencia constituye una concesión de licencia, no una transferencia de titularidad, y bajo esta licencia no podrá:
 					   <ol class="" type="i">
-					       <li>modify or copy the materials;</li>
-					       <li>use the materials for any commercial purpose, or for any public display (commercial or non-commercial);</li>
-					       <li>attempt to decompile or reverse engineer any software contained on Pixelfed's website;</li>
-					       <li>remove any copyright or other proprietary notations from the materials; or</li>
-					       <li>transfer the materials to another person or "mirror" the materials on any other server.</li>
+					       <li>modificar o copiar los materiales;</li>
+					       <li>utilizar los materiales para cualquier propósito comercial o para cualquier exhibición pública (comercial o no comercial);</li>
+					       <li>intentar descompilar o aplicar ingeniería inversa a cualquier software contenido en el sitio web de Pixelfed.;</li>
+					       <li>eliminar cualquier derecho de autor u otras notaciones de propiedad de los materiales; o</li>
+					       <li>transferir los materiales a otra persona o "duplicar" los materiales en cualquier otro servidor.</li>
 					   </ol>
 					    </li>
-					   <li>This license shall automatically terminate if you violate any of these restrictions and may be terminated by Pixelfed at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.</li>
+					   <li>Esta licencia se rescindirá automáticamente si usted infringe cualquiera de estas restricciones y Pixelfed podrá rescindirla en cualquier momento. Al finalizar la visualización de estos materiales o al rescindirse esta licencia, deberá destruir cualquier material descargado que tenga en su poder, ya sea en formato electrónico o impreso.</li>
 					</ol>
-					<h5 class="font-weight-bold mt-5">3. Disclaimer</h5>
+					<h5 class="font-weight-bold mt-5">3. Descargo de responsabilidad</h5>
 					<ol class="" type="a">
 					   <li>The materials on Pixelfed's website are provided on an 'as is' basis. Pixelfed makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</li>
 					   <li>Further, Pixelfed does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</li>
