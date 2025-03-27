@@ -22,39 +22,39 @@
               Publicaciones directas y solo para seguidores: Todas las publicaciones se almacenan y procesan en el servidor. Las publicaciones solo para seguidores se envían a tus seguidores y a los usuarios mencionados, mientras que las publicaciones directas se envían solo a los usuarios mencionados. En algunos casos, esto implica que se envían a servidores diferentes y se almacenan copias allí. Nos esforzamos por limitar el acceso a estas publicaciones solo a personas autorizadas, pero otros servidores podrían no hacerlo. Por lo tanto, es importante revisar los servidores a los que pertenecen tus seguidores. Puedes activar o desactivar manualmente la opción de aprobar o rechazar nuevos seguidores en la configuración. Ten en cuenta que los operadores del servidor y cualquier servidor receptor pueden ver estos mensajes, y que los destinatarios pueden capturarlos, copiarlos o compartirlos de cualquier otra forma. No compartas información peligrosa a través de Pixelfed.
             </li>
             <li>
-              IPs and other metadata: When you log in, we record the IP address you log in from, as well as the name of your browser application. All the logged in sessions are available for your review and revocation in the settings. The latest IP address used is stored for up to 12 months. We also may retain server logs which include the IP address of every request to our server.
+              IP y otros metadatos: Al iniciar sesión, registramos la dirección IP desde la que inicia sesión, así como el nombre de su navegador. Todas las sesiones iniciadas están disponibles para su revisión y revocación en la configuración. La última dirección IP utilizada se almacena hasta 12 meses. También podemos conservar registros del servidor que incluyen la dirección IP de cada solicitud a nuestro servidor.
             </li>
           </ul>
-          <h5 class="font-weight-bold mt-5" id="2">2. What do we use your information for?</h5>
+          <h5 class="font-weight-bold mt-5" id="2">2. ¿Para qué utilizamos tu información?</h5>
 
-          <p class="">Any of the information we collect from you may be used in the following ways:</p>
+          <p class="">Cualquier información que recopilemos de usted podrá utilizarse de las siguientes maneras:</p>
           <ul class=" pl-4">
             <li>
-              To provide the core functionality of Pixelfed. You can only interact with other people’s content and post your own content when you are logged in. For example, you may follow other people to view their combined posts in your own personalized home timeline.
+              Para proporcionar la funcionalidad principal de Pixelfed. Solo puedes interactuar con el contenido de otras personas y publicar el tuyo cuando hayas iniciado sesión. Por ejemplo, puedes seguir a otras personas para ver sus publicaciones combinadas en tu cronología personalizada.
             </li>
             <li>
-              To aid moderation of the community, for example comparing your IP address with other known ones to determine ban evasion or other violations.
+              Para ayudar a la moderación de la comunidad, por ejemplo, comparando su dirección IP con otras conocidas para determinar la evasión de prohibiciones u otras violaciones.
             </li>
             <li>
-              The email address you provide may be used to send you information, notifications about other people interacting with your content or sending you messages, and to respond to inquiries, and/or other requests or questions.
+              La dirección de correo electrónico que proporcione podrá utilizarse para enviarle información, notificaciones sobre otras personas que interactúan con su contenido o le envían mensajes, y para responder consultas y/u otras solicitudes o preguntas.
             </li>
           </ul>
 
-          <h5 class="font-weight-bold mt-5" id="3">3. How do we protect your information?</h5>
-          <p class="">We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. Among other things, your browser session, as well as the traffic between your applications and the API, are secured with SSL, and your password is hashed using a strong one-way algorithm. You may enable two-factor authentication to further secure access to your account.</p>
+          <h5 class="font-weight-bold mt-5" id="3">3. ¿Cómo protegemos su información?</h5>
+          <p class="">Implementamos diversas medidas de seguridad para proteger su información personal cuando la ingresa, la envía o accede a ella. Entre otras cosas, su sesión de navegador, así como el tráfico entre sus aplicaciones y la API, están protegidos con SSL, y su contraseña se cifra mediante un algoritmo unidireccional robusto. Puede habilitar la autenticación de dos factores para proteger aún más el acceso a su cuenta.</p>
 
 
-          <h5 class="font-weight-bold mt-5" id="4">4. What is our data retention policy?</h5>
-          <p class="">We will make a good faith effort to:</p>
+          <h5 class="font-weight-bold mt-5" id="4">4. ¿Cuál es nuestra política de retención de datos?</h5>
+          <p class="">Haremos un esfuerzo de buena fe para:</p>
           <ul class=" pl-4">
             <li>
-              Retain server logs containing the IP address of all requests to this server, in so far as such logs are kept, no more than 90 days.
+              Conservar los registros del servidor que contengan la dirección IP de todas las solicitudes a este servidor, en la medida en que se conserven dichos registros, no más de 90 días.
             </li>
             <li>
-              Retain the IP addresses associated with registered users no more than 12 months.
+              Conservar las direcciones IP asociadas a los usuarios registrados no más de 12 meses.
             </li>
             <li>
-              You can request and download an archive of your content, including your posts, media attachments, profile picture, and header image.
+              Puede solicitar y descargar un archivo de su contenido, incluidas sus publicaciones, archivos multimedia adjuntos, foto de perfil e imagen de encabezado.
             </li>
           </ul>
           <p class="">You may irreversibly delete your account at any time.</p>
