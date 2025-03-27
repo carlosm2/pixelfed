@@ -27,21 +27,21 @@
 					</ol>
 					<h5 class="font-weight-bold mt-5">3. Descargo de responsabilidad</h5>
 					<ol class="" type="a">
-					   <li>The materials on Pixelfed's website are provided on an 'as is' basis. Pixelfed makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.</li>
-					   <li>Further, Pixelfed does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.</li>
+					   <li>Los materiales del sitio web de Pixelfed se proporcionan "tal cual". Pixelfed no ofrece garantías, expresas ni implícitas, y por la presente renuncia y niega cualquier otra garantía, incluyendo, entre otras, las garantías o condiciones implícitas de comerciabilidad, idoneidad para un fin determinado o no infracción de la propiedad intelectual u otras violaciones de derechos.</li>
+					   <li>Además, Pixelfed no garantiza ni hace ninguna declaración sobre la precisión, los resultados probables o la confiabilidad del uso de los materiales en su sitio web o de otro modo relacionados con dichos materiales o en cualquier sitio vinculado a este sitio.</li>
 					</ol>
-					<h5 class="font-weight-bold mt-5">4. Limitations</h5>
-					<p class="">In no event shall Pixelfed or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on Pixelfed's website, even if Pixelfed or a Pixelfed authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.</p>
-					<h5 class="font-weight-bold mt-5">5. Accuracy of materials</h5>
-					<p class="">The materials appearing on Pixelfed's website could include technical, typographical, or photographic errors. Pixelfed does not warrant that any of the materials on its website are accurate, complete or current. Pixelfed may make changes to the materials contained on its website at any time without notice. However Pixelfed does not make any commitment to update the materials.</p>
-					<h5 class="font-weight-bold mt-5">6. Links</h5>
-					<p class="">Pixelfed has not reviewed all of the sites linked to its website and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Pixelfed of the site. Use of any such linked website is at the user's own risk.</p>
-					<h5 class="font-weight-bold mt-5">7. Modifications</h5>
-					<p class="">Pixelfed may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.</p>
-					<h5 class="font-weight-bold mt-5">8. Governing Law</h5>
-					<p class="">These terms and conditions are governed by and construed in accordance with the laws of Canada and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.</p>
-					<h5 class="font-weight-bold mt-5">9. Community Guidelines</h5>
-					<p class="">You can view our Community Guidelines <a href="{{route('help.community-guidelines')}}">here</a>.</p>
+					<h5 class="font-weight-bold mt-5">4. Limitaciones</h5>
+					<p class="">En ningún caso Pixelfed ni sus proveedores serán responsables de ningún daño (incluidos, entre otros, los daños por pérdida de datos o beneficios, o por interrupción del negocio) que surja del uso o la imposibilidad de usar los materiales del sitio web de Pixelfed, incluso si Pixelfed o un representante autorizado de Pixelfed ha sido notificado oralmente o por escrito de la posibilidad de dicho daño. Dado que algunas jurisdicciones no permiten limitaciones a las garantías implícitas ni limitaciones de responsabilidad por daños consecuentes o incidentales, es posible que estas limitaciones no le sean aplicables.</p>
+					<h5 class="font-weight-bold mt-5">5. Precisión de los materiales</h5>
+					<p class="">Los materiales que aparecen en el sitio web de Pixelfed podrían contener errores técnicos, tipográficos o fotográficos. Pixelfed no garantiza la exactitud, integridad ni actualidad de los materiales de su sitio web. Pixelfed podrá modificar los materiales de su sitio web en cualquier momento sin previo aviso. Sin embargo, Pixelfed no se compromete a actualizarlos.</p>
+					<h5 class="font-weight-bold mt-5">6. Enlaces</h5>
+					<p class="">Pixelfed no ha revisado todos los sitios enlazados a su sitio web y no se responsabiliza del contenido de ninguno de ellos. La inclusión de un enlace no implica la aprobación del sitio por parte de Pixelfed. El uso de dichos sitios web enlazados es bajo la propia responsabilidad del usuario.</p>
+					<h5 class="font-weight-bold mt-5">7. Modificaciones</h5>
+					<p class="">Pixelfed podrá modificar estas condiciones de servicio de su sitio web en cualquier momento sin previo aviso. Al utilizar este sitio web, usted acepta la versión vigente de estas condiciones de servicio.</p>
+					<h5 class="font-weight-bold mt-5">8. Ley aplicable</h5>
+					<p class="">Estos términos y condiciones se rigen e interpretan de conformidad con las leyes de Canadá y usted se somete irrevocablemente a la jurisdicción exclusiva de los tribunales de ese estado o ubicación.</p>
+					<h5 class="font-weight-bold mt-5">9. Normas de la comunidad</h5>
+					<p class="">Puedes ver nuestras Normas de la comunidad<a href="{{route('help.community-guidelines')}}">here</a>.</p>
 				</div>
 				@endif
 			</div>
