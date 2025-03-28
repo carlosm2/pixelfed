@@ -57,32 +57,32 @@
               Puede solicitar y descargar un archivo de su contenido, incluidas sus publicaciones, archivos multimedia adjuntos, foto de perfil e imagen de encabezado.
             </li>
           </ul>
-          <p class="">You may irreversibly delete your account at any time.</p>
+          <p class="">Puede eliminar su cuenta irreversiblemente en cualquier momento.</p>
 
           <h5 class="font-weight-bold mt-5" id="5">5. Do we use cookies?</h5>
-          <p class="">Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow). These cookies enable the site to recognize your browser and, if you have a registered account, associate it with your registered account.
+          <p class="">Sí. Las cookies son pequeños archivos que un sitio web o su proveedor de servicios transfiere al disco duro de su ordenador a través de su navegador web (si lo permite). Estas cookies permiten que el sitio web reconozca su navegador y, si tiene una cuenta registrada, la asocie con ella.
           </p>
-          <p class="">We use cookies to understand and save your preferences for future visits.</p>
+          <p class="">Utilizamos cookies para comprender y guardar sus preferencias para futuras visitas.</p>
 
-          <h5 class="font-weight-bold mt-5" id="6">6. Do we disclose any information to outside parties?</h5>
-          <p class="">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our site, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety.</p>
-          <p class="">Your public content may be downloaded by other servers in the network. Your public and followers-only posts are delivered to the servers where your followers reside, and direct messages are delivered to the servers of the recipients, in so far as those followers or recipients reside on a different server than this.</p>
-          <p class="">When you authorize an application to use your account, depending on the scope of permissions you approve, it may access your public profile information, your following list, your followers, your lists, all your posts, and your favourites. Applications can never access your e-mail address or password.</p>
+          <h5 class="font-weight-bold mt-5" id="6">6. ¿Revelamos alguna información a terceros?</h5>
+          <p class="">No vendemos, intercambiamos ni transferimos de ningún modo su información personal a terceros. Esto no incluye a terceros de confianza que nos ayudan a operar nuestro sitio, dirigir nuestro negocio o prestarle servicio, siempre que se comprometan a mantener la confidencialidad de esta información. También podemos divulgar su información cuando consideremos que es necesario para cumplir con la ley, aplicar las políticas de nuestro sitio o proteger nuestros derechos, propiedad o seguridad, o los de terceros.</p>
+          <p class="">Tu contenido público puede ser descargado por otros servidores de la red. Tus publicaciones públicas y exclusivas para seguidores se envían a los servidores donde residen tus seguidores, y los mensajes directos se envían a los servidores de los destinatarios, siempre que estos residan en un servidor diferente.</p>
+          <p class="">Al autorizar a una aplicación a usar tu cuenta, según el alcance de los permisos que otorgues, esta podrá acceder a la información pública de tu perfil, tu lista de seguidores, tus listas, todas tus publicaciones y tus favoritos. Las aplicaciones nunca podrán acceder a tu correo electrónico ni a tu contraseña.</p>
 
-          <h5 class="font-weight-bold mt-5" id="7">7. Site usage by children</h5>
+          <h5 class="font-weight-bold mt-5" id="7">7. Uso del sitio por las infancias</h5>
 
-          <p class="">If this server is in the EU or the EEA: Our site, products and services are all directed to people who are at least 16 years old. If you are under the age of 16, per the requirements of the GDPR (General Data Protection Regulation) do not use this site.</p>
+          <p class="">Si este servidor se encuentra en la UE o el EEE: Nuestro sitio, productos y servicios están dirigidos a personas mayores de 16 años. Si es menor de 16 años, de acuerdo con el RGPD (Reglamento General de Protección de Datos), no utilice este sitio.</p>
 
-          <p class="">If this server is in the USA: Our site, products and services are all directed to people who are at least 13 years old. If you are under the age of 13, per the requirements of COPPA (Children's Online Privacy Protection Act) do not use this site.</p>
+          <p class="">Si este servidor está en EE. UU.: Nuestro sitio, productos y servicios están dirigidos a personas mayores de 13 años. Si es menor de 13 años, según lo exige la Ley de Protección de la Privacidad Infantil en Internet (COPPA), no utilice este sitio.</p>
 
-          <p class="">Law requirements can be different if this server is in another jurisdiction.</p>
+          <p class="">Los requisitos legales pueden ser diferentes si este servidor está en otra jurisdicción.</p>
 
-          <h5 class="font-weight-bold mt-5" id="8">8. Changes to our Privacy Policy</h5>
-          <p class="">If we decide to change our privacy policy, we will post those changes on this page.</p>
+          <h5 class="font-weight-bold mt-5" id="8">8. Cambios en nuestra Política de Privacidad</h5>
+          <p class="">Si decidimos cambiar nuestra política de privacidad, publicaremos esos cambios en esta página.</p>
 
-          <p class="">This document is CC-BY-SA. It was last updated Jun 12, 2018.</p>
+          <p class="">Este documento está protegido por derechos de autor (CC-BY-SA). Última actualización: 12 de junio de 2018.</p>
 
-          <p class="">Originally adapted from the <a href="https://mastodon.social/terms">Mastodon</a> privacy policy.</p>
+          <p class="">Originalmente adapatado de la politica de privacidad de <a href="https://mastodon.social/terms">Mastodon</a>.</p>
         </div>
         @endif
       </div>
