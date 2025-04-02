@@ -1,27 +1,27 @@
-@extends('site.help.partial.template', ['breadcrumb'=>'Community Guidelines'])
+@extends('site.help.partial.template', ['breadcrumb'=>'Normas de la comunidad'])
 
 @section('section')
 
   <div class="title">
-    <h3 class="font-weight-bold">Community Guidelines</h3>
+    <h3 class="font-weight-bold">Normas de la comunidad</h3>
   </div>
   <hr>
   @if($page)
   <div>
     {!!$page->content!!}
     <hr>
-    <p class="">This document was last updated {{$page->created_at->format('M d, Y')}}.</p>
+    <p class="">Este documento fue actualizado {{$page->created_at->format('M d, Y')}}.</p>
   </div>
   @else
   <div>
-    <p class="lead mb-5">The following guidelines are not a legal document, and final interpretation is up to the administration of {{config('pixelfed.domain.app')}}; they are here to provide you with an insight into our content moderation policies:</p>
+    <p class="lead mb-5">Las siguientes pautas no constituyen un documento legal y la interpretación final queda a cargo de la administración {{config('pixelfed.domain.app')}}; they are here to provide you with an insight into our content moderation policies:</p>
     <div class="py-4">
-      <h5 class="pb-3">The following types of content will be removed from the public timeline:</h5>
+      <h5 class="pb-3">Los siguientes tipos de contenido se eliminarán de la cronología pública:</h5>
       <ul>
-        <li class="mb-3">Excessive advertising</li>
-        <li class="mb-3">Uncurated news bots posting from third-party news sources</li>
-        <li class="mb-3">Untagged nudity, pornography and sexually explicit content, including artistic depictions</li>
-        <li class="mb-3">Untagged gore and extremely graphic violence, including artistic depictions</li>
+        <li class="mb-3">Publicidad excesiva</li>
+        <li class="mb-3">Bots de noticias no curados que publican desde fuentes de noticias de terceros</li>
+        <li class="mb-3">Desnudez sin etiquetar, pornografía y contenido sexualmente explícito, incluidas representaciones artísticas</li>
+        <li class="mb-3">Gore sin etiquetar y violencia extremadamente gráfica, incluidas representaciones artísticas</li>
       </ul>
     </div>
     <hr>
