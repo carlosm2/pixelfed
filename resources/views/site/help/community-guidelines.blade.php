@@ -26,37 +26,37 @@
     </div>
     <hr>
     <div class="py-4">
-      <h5 class="pb-3">The following types of content will be removed from the public timeline, and may result in account suspension and revocation of access to the service:</h5>
+      <h5 class="pb-3">Los siguientes tipos de contenido se eliminarán de la cronología pública y podrán resultar en la suspensión de la cuenta y la revocación del acceso al servicio:</h5>
       <ul>
-        <li class="mb-3">Racism or advocation of racism</li>
-        <li class="mb-3">Sexism or advocation of sexism</li>
-        <li class="mb-3">Discrimination against gender and sexual minorities, or advocation thereof</li>
-        <li class="mb-3">Xenophobic and/or violent nationalism</li>
+        <li class="mb-3">Racismo o apología del racismo</li>
+        <li class="mb-3">Sexismo o apología del sexismo</li>
+        <li class="mb-3">Discriminación contra minorías de género y sexuales, o apología de la misma</li>
+        <li class="mb-3">Nacionalismo xenófobo y/o violento</li>
       </ul>
     </div>
     <hr>
     <div class="py-4">
-      <h5 class="pb-3">The following types of content are explicitly disallowed and will result in revocation of access to the service:</h5>
+      <h5 class="pb-3">Los siguientes tipos de contenidos están explícitamente prohibidos y darán lugar a la revocación del acceso al servicio:</h5>
       <ul>
-        <li class="mb-3">Sexual depictions of children</li>
-        <li class="mb-3">Content illegal in Canada, Germany and/or France, such as holocaust denial or Nazi symbolism</li>
-        <li class="mb-3">Conduct promoting the ideology of National Socialism</li>
+        <li class="mb-3">Representaciones sexuales de niños</li>
+        <li class="mb-3">Contenido ilegal en Canadá, Alemania y/o Francia, como la negación del Holocausto o el simbolismo nazi.</li>
+        <li class="mb-3">Conducta que promueva la ideología del nacionalsocialismo</li>
       </ul>
     </div>
     <hr>
     <div class="py-4">
-      <h5 class="pb-3">Any conduct intended to stalk or harass other users, or to impede other users from utilizing the service, or to degrade the performance of the service, or to harass other users, or to incite other users to perform any of the aforementioned actions, is also disallowed, and subject to punishment up to and including revocation of access to the service. This includes, but is not limited to, the following behaviors:</h5>
+      <h5 class="pb-3">Cualquier conducta destinada a acosar o hostigar a otros usuarios, impedir que utilicen el servicio, degradar su rendimiento, acosar a otros usuarios o incitarlos a realizar cualquiera de las acciones mencionadas, también queda prohibida y estará sujeta a sanciones que pueden incluir la revocación del acceso al servicio. Esto incluye, entre otras, las siguientes conductas:</h5>
       <ul>
-        <li class="mb-3">Continuing to engage in conversation with a user that has specifically has requested for said engagement with that user to cease and desist may be considered harassment, regardless of platform-specific privacy tools employed.</li>
-        <li class="mb-3">Aggregating, posting, and/or disseminating a person's demographic, personal, or private data without express permission (informally called doxing or dropping dox) may be considered harassment.</li>
-        <li class="mb-3">Inciting users to engage another user in continued interaction or discussion after a user has requested for said engagement with that user to cease and desist (informally called brigading or dogpiling) may be considered harassment.</li>
+        <li class="mb-3">Seguir participando en una conversación con un usuario que específicamente solicitó que dicha interacción cese y desista puede considerarse acoso, independientemente de las herramientas de privacidad específicas de la plataforma empleadas.</li>
+        <li class="mb-3">La agregación, publicación y/o difusión de datos demográficos, personales o privados de una persona sin permiso expreso (llamado informalmente doxing o dropping dox) puede considerarse acoso.</li>
+        <li class="mb-3">Incitar a los usuarios a interactuar con otro usuario en una interacción o discusión continua después de que un usuario haya solicitado que dicha interacción con ese usuario cese y desista (informalmente llamado brigading o dogpiling) puede considerarse acoso.</li>
       </ul>
     </div>
     <hr>
-    <p>These provisions notwithstanding, the administration of the service reserves the right to revoke any user's access permissions, at any time, for any reason, except as limited by law.</p>
+    <p>No obstante estas disposiciones, la administración del servicio se reserva el derecho de revocar los permisos de acceso de cualquier usuario, en cualquier momento, por cualquier motivo, excepto según lo limitado por la ley.</p>
     <hr>
-    <p class="">This document was last updated Jun 26, 2019.</p>
-    <p class="">Originally adapted from the <a href="https://mastodon.social/about/more">Mastodon</a> Code of Conduct.</p>
+    <p class="">Este documento se actualizó por última vez el 26 de junio de 2019.</p>
+    <p class="">Adaptado originalmente del código de Conducta de <a href="https://mastodon.social/about/more">Mastodon</a>.</p>
 </div>
   @endif
 @endsection
