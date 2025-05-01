@@ -41,7 +41,7 @@
 					<h5 class="font-weight-bold mt-5">8. Ley aplicable</h5>
 					<p class="">Estos términos y condiciones se rigen e interpretan de conformidad con las leyes de Canadá y usted se somete irrevocablemente a la jurisdicción exclusiva de los tribunales de ese estado o ubicación.</p>
 					<h5 class="font-weight-bold mt-5">9. Normas de la comunidad</h5>
-					<p class="">Puedes ver nuestras Normas de la comunidad<a href="{{route('help.community-guidelines')}}">here</a>.</p>
+					<p class="">Puedes ver nuestras Normas de la comunidad<a href="{{route('help.community-guidelines')}}">aqui</a>.</p>
 				</div>
 				@endif
 			</div>
